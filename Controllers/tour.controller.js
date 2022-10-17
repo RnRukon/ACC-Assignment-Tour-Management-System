@@ -41,7 +41,7 @@ exports.getTours = async (req, res, next) => {
             queries.limit = parseInt(limit);
         }
 
-        const result = await getToursServices(filters = {}, queries);
+        const result = await getToursServices(filters, queries);
         res.status(200).json({
             status: "Success",
             message: "Get data successfully",

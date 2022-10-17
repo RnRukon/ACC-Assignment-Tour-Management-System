@@ -9,7 +9,6 @@ router.route("/cheapest")
 
 router.route('/')
     .get(toursController.getTours)
-
     .post(toursController.createTours)
 
 
