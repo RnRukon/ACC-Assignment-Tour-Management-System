@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Afghanistan",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg",
+        "price": 600,
+        "view": 0
+        
+    },
+    {
+        "name": "Bangladesh",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png",
+        "price": 700,
+        "view": 0
+       
+    },
+    {
+        "name": "Burundi",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 400,
+        "view": 0
+    },
+    {
+        "name": "Brazil",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg",
+        "price": 500,
+        "unit": "bag",
+        "view": 0
+    },
+    {
+        "name": "Canada",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg",
+        "price": 200,
+        "view": 0
+    },
+    {
+        "name": "Denmark",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg",
+        "price": 300,
+        "view": 0
+    },
+    {
+        "name": "Ecuador",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 700,
+        "view": 0
+    },
+    {
+        "name": "France",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 1000,
+        "view": 0
+    },
+    {
+        "name": "Grenada",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 420,
+        "view": 0
+    },
+    {
+        "name": "Haiti",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 450,
+        "view": 0
+    },
+    {
+        "name": "India",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 900,
+        "view": 0
+    },
+    {
+        "name": "Japan",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 1000,
+        "view": 0
+    },
+    {
+        "name": "Kenya",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 250,
+        "view": 0
+    },
+    {
+        "name": "Lebanon",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 800,
+        "view": 0
+    },
+    {
+        "name": "Madagascar",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 700,
+        "view": 0
+    },
+    {
+        "name": "Mozambique",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 950,
+        "view": 0
+    },
+    {
+        "name": "Nepal",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 320,
+        "view": 0
+    },
+    {
+        "name": "Oman",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 400,
+        "view": 0
+    },
+    {
+        "name": "Pakistan",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 500,
+        "view": 0
+    },
+    {
+        "name": "Qatar",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 600,
+        "view": 0
+    },
+    {
+        "name": "Romania",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 700,
+        "view": 0
+    },
+    {
+        "name": "Samoa",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 850,
+        "view": 0
+    },
+    {
+        "name": "Tajikistan",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 750,
+        "view": 0
+    },
+    {
+        "name": "Uganda",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 650,
+        "view": 0
+    },
+    {
+        "name": "Mauritania",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 550,
+        "view": 0
+    },
+    {
+        "name": "Ghana",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 520,
+        "view": 0
+    },
+    {
+        "name": "Kiribati",
+        "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+        "image": "https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg",
+        "price": 480,
+        "view": 0
+    }
+]
