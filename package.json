@@ -1,9 +1,6 @@
 {
    "name": "acc-assignment-tour-management",
    "version": "1.0.0",
-   "engines": {
-      "node": "v16.16.0"
-   },
    "description": "",
    "main": "index.js",
    "scripts": {
