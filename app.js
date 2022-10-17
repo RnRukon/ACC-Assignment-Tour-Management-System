@@ -9,13 +9,13 @@ app.use(cors());
 
 
 // route -----------
-// const toursRoute = require('./Routes/Tours.route')
+const toursRoute = require('./Routes/Tours.route')
 
 app.get("/", (req, res, next) => {
   res.send("Route is working! YaY!");
 });
 
 // post data =======================
-// app.use('/api/v1/tour', toursRoute);
+app.use('/api/v1/tour', toursRoute);
 
 module.exports = app;
