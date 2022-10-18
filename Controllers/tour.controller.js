@@ -116,6 +116,7 @@ exports.getToursDetailsById = async (req, res, next) => {
 
 exports.createTours = async (req, res, next) => {
     try {
+
         const result = await createToursServices(req.body);
 
         res.status(200).json({
