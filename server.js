@@ -7,13 +7,14 @@ const app = require("./app");
 
 // database connection
 mongoose.connect(process.env.DATABASE_LOCAL).then(() => {
-  console.log(`Database connection is Successfully`.red.bold);
+  console.log(`Database connection is Successfully`);
 })
 
 // server
-const port = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8080;
 
-app.listen(port, () => {
-  console.log(`App is running on port ${port}`.yellow);
+app.listen(PORT, () => {
+  console.log(`App is running on port ${PORT}`);
+
 });
 

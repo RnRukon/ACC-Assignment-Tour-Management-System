@@ -5,7 +5,6 @@ exports.getTours = async (req, res, next) => {
 
     try {
 
-
         let filters = { ...req.query };
 
         let filterString = JSON.stringify(filters);

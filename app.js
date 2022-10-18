@@ -11,7 +11,7 @@ app.use(cors());
 // route -----------
 const toursRoute = require('./Routes/Tours.route')
 
-app.get("/", (req, res, next) => {
+app.get("/", (req, res) => {
   res.send("Route is working! YaY!");
 });
 
