@@ -26,14 +26,14 @@ const tourSchema = Mongoose.Schema({
   },
   view: {
     type: Number,
-    required: [true, "Price must be view"],
     min: [0, "Please can't be negative"],
+    default: 0
   }
 
-}, 
-{
-  timestamps: true,
-})
+},
+  {
+    timestamps: true,
+  })
 
 // /model  ----------------
 const Tour = Mongoose.model('Tour', tourSchema);
