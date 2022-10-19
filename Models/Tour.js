@@ -30,7 +30,8 @@ const tourSchema = Mongoose.Schema({
     min: [0, "Please can't be negative"],
   }
 
-}, {
+}, 
+{
   timestamps: true,
 })
 
